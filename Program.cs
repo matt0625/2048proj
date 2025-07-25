@@ -82,7 +82,6 @@ namespace _2048
                 {
                     if (i + 1 > Grid.GetLength(0) - 1 || j + 1 > Grid.GetLength(1) - 1)
                     {
-                        Console.WriteLine("here");
                         continue;
                     }
                     else
